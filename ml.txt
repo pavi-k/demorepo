@@ -1,0 +1,26 @@
+- disadvantage of instance based learning-4th unit pg 243. 2 pts.
+- lwr - generalisation of knn, why locally?, derivation-pg 249. target function approx
+		by const, linear, quadratic func.
+- rbf - bridge b/w instance and ann
+- case based 
+- KNN= target fun - discreet or real valued, euclidean dst, never forms an explicit 
+                                 general hyspothesis f cap., algorithm pg 244., approximate continuous valued 
+                                 valued target function, to approximate a real valued target function we raplace
+- Distance wEighted- replacing last line -Wi, for real value functions replace as, disadv of all
+                                   training exampleles, local and global, shepards method, inductive inference
+		method. adv- remarks. iductve bias for knn. disadv- overcoming- pg 247
+-RBF- learned hypothesis,func has 2 layers, tarined in 2 stage process, alternaive methods for choosing-
+		2 approaches-pg 251, adv.
+- Case Based reasoning- 3 points. 3rd diffferent.
+- lazy Vs, Eager- 257
+
+- Rule based Classifier- set of IF THEN rules,
+		    if 2 rules are triggerend by X,conflict. 2 strategies- size ordering, rule ordering.
+		    rule set = decision list.
+		    rule pruning - class based ordering
+		    sequential covering - pg 323 algorithm,
+		general to specific rule space
+		Learn one rule, better metrics- entropy, info gain- FOIL, Foil gain
+		pg 326,likelihood ratio statistics-CN2, RIPPER
+		FOIL Prune value high= prune R
+
